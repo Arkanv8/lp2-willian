@@ -6,7 +6,7 @@ function register() {
       <div classname="main-register">
         <div className="center">
           <div className="menu-register">
-            <div className="logo">
+            <div className="logo-register">
               <h3>City Tricks</h3>
             </div>
             <div className="item-menu-register">
