@@ -11,7 +11,7 @@ function App() {
               <h3>City Tricks</h3>
             </div>
             <div className="item-menu">
-              <a href="#">Crie sua conta!</a>
+              <a href="/register">Crie sua conta!</a>
             </div>
           </div>
             <div className="form">
