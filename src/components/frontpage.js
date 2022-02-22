@@ -4,7 +4,7 @@ function frontpage() {
   return (
             <div className="inicial">
                 <div className="logo-inicial">
-                  <h1>logo inicial</h1>
+                  <img scr="../images/logo.png"/>
                 </div>
 
                 <div className="titulo-inicial">

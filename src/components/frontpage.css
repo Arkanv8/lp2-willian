@@ -1,43 +1,46 @@
 .inicial{
-    padding: 40px 10px 50px 50px;
-    width: 100%;
-    min-width: 400px;
-    max-width: 960px;
-    margin: 0 auto;
-    padding:0 2%;
-    display: flex;
-    flex-wrap: wrap;
-
+    margin: auto;
+    width: 50%;
+    height: 50%;
+    border: 3px solid black;
+    padding: 22%;
 }
 
 .logo-inicial{
-    text-align: center;
-    background-color: yellow;
+    float: top;
+    background-image: url(../images/logo.png);
+    width: 100%;
+    height: 100%;
 }
 
 .titulo-inicial{
     text-align: center;
-    background-color: purple
+    background-color: purple;
+    border: 2px solid black;
 }
 
 .texto-inicial{
     text-align: center;
     background-color: brown;
+    border: 2px solid black;
 }
 
 .botoes-inicial{
     text-align: center;
     background-color: gray;
+    border: 2px solid black;
 }
 
 .login-inicial{
     text-align: center;
     background-color: blue;
+    border: 2px solid black;
 
 }
 
 .register-inicial{
     text-align: center;
     background-color: red;
+    border: 2px solid black;
     
 }
