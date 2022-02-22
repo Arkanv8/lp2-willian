@@ -1,27 +1,43 @@
 .inicial{
+    padding: 40px 10px 50px 50px;
+    width: 100%;
+    min-width: 400px;
+    max-width: 960px;
+    margin: 0 auto;
+    padding:0 2%;
+    display: flex;
+    flex-wrap: wrap;
 
 }
 
 .logo-inicial{
-
+    text-align: center;
+    background-color: yellow;
 }
 
 .titulo-inicial{
-
+    text-align: center;
+    background-color: purple
 }
 
 .texto-inicial{
-
+    text-align: center;
+    background-color: brown;
 }
 
 .botoes-inicial{
-    
+    text-align: center;
+    background-color: gray;
 }
 
 .login-inicial{
+    text-align: center;
+    background-color: blue;
 
 }
 
 .register-inicial{
+    text-align: center;
+    background-color: red;
     
 }
