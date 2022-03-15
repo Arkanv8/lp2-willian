@@ -1,7 +1,7 @@
 import React from 'react'
 import { HashRouter } from 'react-router-dom'
 
-import Routes from './Routes'
+import Routes from './routes'
 
 
 export default props =>
